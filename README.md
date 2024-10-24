@@ -1,7 +1,7 @@
 # Hi there, I'm Heri  👋 
 
 
-## I've an interest in Artificial intelligence, Machine Learning, and Deep Learning.
+## I've an interest in Mobile Apps Development, Machine Learning, Deep Learning, and IoT Engineering.
 
 - 😻 Check out my Linkedin: [Visit my Linkedin][linkedin]
 - 🌱 I like learning new things 
