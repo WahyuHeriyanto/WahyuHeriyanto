@@ -3,6 +3,8 @@
 
 ## I've an interest in Mobile Apps Development, Machine Learning, Deep Learning, and IoT Engineering.
 
+# Happy coding ☺
+
 - 😻 Check out my Linkedin: [Visit my Linkedin][linkedin]
 - 🌱 I like learning new things. 
 - ⚡ S-1 Electrical Engineering Student, Sebelas Maret University. 
