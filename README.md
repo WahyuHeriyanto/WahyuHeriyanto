@@ -4,8 +4,8 @@
 ## I've an interest in Mobile Apps Development, Machine Learning, Deep Learning, and IoT Engineering.
 
 - 😻 Check out my Linkedin: [Visit my Linkedin][linkedin]
-- 🌱 I like learning new things 
-- ⚡ S-1 Electrical Engineering Student, Sebelas Maret University
+- 🌱 I like learning new things. 
+- ⚡ S-1 Electrical Engineering Student, Sebelas Maret University. 
 - 👯 Open for collaboration: wahyu15heriyanto@gmail.com
 
 ### Connect with me:
